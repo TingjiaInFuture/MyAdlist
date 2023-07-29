@@ -1,0 +1,71 @@
+! 2023-05-10 https://m.163.com
+m.163.com##.js-open-app
+m.163.com##.s-openApp
+m.163.com##.floatMenu-logo
+m.163.com##footer > span
+
+! 2023-05-10 https://www.zhihu.com
+www.zhihu.com##.OpenInAppButton
+www.zhihu.com##.MobileAppHeader-inner
+www.zhihu.com##.KfeCollection-VipRecommendCard
+
+! 2023-05-10 https://m.163.com
+m.163.com##.js-open-newsapp
+m.163.com##.js-recommend-vip
+
+! 2023-05-10 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Post-VipRecommendCard
+
+! 2023-05-10 https://www.zhihu.com
+www.zhihu.com##.RelatedReadings.Card
+www.zhihu.com##.HotQuestions.Card
+
+! 2023-05-12 https://blog.csdn.net
+blog.csdn.net##.passport-login-container
+blog.csdn.net##.guide-box-ab.guide-box-new.guide-box
+blog.csdn.net##.wap-shadowbox.weixin-shadowbox
+blog.csdn.net##.feed-Sign-span-ab.open_app_channelCode.feed-Sign-style-new.feed-Sign-span
+
+! 2023-05-14 https://www.media.xinhuamm.net
+www.media.xinhuamm.net##.content-box
+
+! 2023-05-28 https://m.163.com
+m.163.com##.backflow-floating
+
+! 2023-06-04 https://m.douyin.com
+m.douyin.com##.login-header
+
+! 2023-06-04 https://www.zhihu.com
+www.zhihu.com##.sgui-header
+
+! 2023-07-04 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Button--blue.css-183aq3r.Button
+
+! 2023-07-20 https://cn.bing.com
+cn.bing.com##.subtitle
+cn.bing.com##.bnp_rich_div_visible.bottom
+
+! 2023-07-21 https://xueqiu.com
+xueqiu.com##.index_mobile_moveY_3NN.index_mobile_openapp__fix_koo
+
+! 2023-07-21 https://view.inews.qq.com
+view.inews.qq.com##.slider-top-bar_wrapper__NMYCY
+view.inews.qq.com##.normal_buttonWrap__S7gLr
+
+! 2023-07-27 https://m.163.com
+m.163.com##.js-distribution-share
+m.163.com##.banner-vipBanner
+m.163.com##.operate
+
+! 2023-01-09 https://www.hdmoli.com
+www.hdmoli.com##p.col-pd.text-muted:nth-of-type(1)
+
+! 2023-05-18 http://wan.baidu.com
+wan.baidu.com##.small-modal.game-active-modal
+
+! 2023-06-28 https://cloudgame.ds.163.com
+cloudgame.ds.163.com##.sidebar
+
+! 2023-07-08 http://wan.baidu.com
+wan.baidu.com##.myAward.right.info
+
